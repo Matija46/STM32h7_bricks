@@ -1,0 +1,5 @@
+../Core/Src/dma.c:47:19:DMA2_SDRAM_Config	2
+../Core/Src/dma.c:107:13:SDRAM_TransferComplete	1
+../Core/Src/dma.c:118:13:SDRAM_TransferError	1
+../Core/Src/dma.c:125:19:MDMA_SDRAM_Config	2
+../Core/Src/dma.c:168:6:HAL_SDRAM_DMA_XferCpltCallback	2
